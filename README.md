@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Currently being no one but a I.T student, trying his best to be someone
 <!--
 **OwOchiii/OwOchiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
