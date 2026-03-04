@@ -25,3 +25,8 @@ I believe in constant growth, clean code, and building solutions that matter. Wh
 > “Jack of all trades, master of some.”
 
 Thanks for visiting my profile!
+
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/ca93aa1a-b755-4b58-92ca-e2e63e82cbbe/thumbnail" >
+</p>
