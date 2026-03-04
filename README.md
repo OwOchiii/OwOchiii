@@ -1,32 +1,33 @@
-# Hi there, I'm OwOchiii 👋
+# Hi 👋, I'm Nguyen Vu An
 
-I'm a passionate student and a **jack of all trades** when it comes to technology. With hands-on experience in multiple programming languages and frameworks, I thrive on learning new things and pushing the boundaries of what's possible.
+### A passionate Java developer
 
-## 🧑‍💻 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OwOchiii&label=Profile views&color=0e75b6&style=flat" alt="OwOchiii" /> </p>
 
-- 🎓 Currently a student, always curious and driven to master new skills.
-- 💡 Versatile developer with exposure to a wide range of technologies.
-- 🛠️ Most confident with **Java** and the **Spring Boot** framework.
-- 💻 Experienced with **Python** and **C** as well.
-- 🔒 Most of my projects are private, but I'm always working on something new behind the scenes.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OwOchiii" alt="OwOchiii" /></a> </p>
 
-## 🚀 Technologies & Tools
+- 🔭 I'm currently working on **A lot of the self projet**
 
-- **Languages:** Java, Python, C
-- **Frameworks:** Spring Boot
-- **Tools:** Git, IntelliJ IDEA, VS Code
+- 🌱 I'm currently learning **Python, JavaScript and a lot of framework**
 
-## 📈 My Approach
+- 👯 I'm looking to collaborate on **Open source project**
 
-I believe in constant growth, clean code, and building solutions that matter. Whether it's backend development, scripting, or exploring new tech stacks, I bring curiosity and dedication to everything I do.
+- 🤝 I'm looking for help with **A lot. For starter, system design, clean coding, actually knowing what am I doing,...**
 
----
+- 📫 How to reach me **nguyenvuan2005@gmail.com**
 
-> “Jack of all trades, master of some.”
-
-Thanks for visiting my profile!
-
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/ca93aa1a-b755-4b58-92ca-e2e63e82cbbe/thumbnail" >
+<a href="https://github.com/OwOchiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OwOchiii" height="30" width="40" /></a>
+<a href="https://leetcode.com/OwOchii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="OwOchii" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OwOchiii&show_icons=true&locale=en&layout=compact" alt="OwOchiii" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OwOchiii&show_icons=true&locale=en" alt="OwOchiii" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OwOchiii&" alt="OwOchiii" /></p>
+
