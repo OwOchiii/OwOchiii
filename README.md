@@ -1,3 +1,5 @@
+![snake animation](https://github.com/OwOchiii/OwOchiii/blob/output/github-contribution-grid-snake2.svg)
+
 # 💫 About Me:
 Java/Python developer, Data Scientist
 
