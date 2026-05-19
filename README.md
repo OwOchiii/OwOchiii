@@ -9,7 +9,7 @@ Java/Python developer, Data Scientist
 
 
 ## 🌐 Socials:
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/504657340964929541)
+[![Discord Presence](https://lanyard.cnrad.dev/api/504657340964929541)](https://discord.com/users/504657340964929541)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/504657340964929541) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/an-nguyễn-vũ-5271263a7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenvuan2005@gmail.com) 
 
 # 💻 Tech Stack:
